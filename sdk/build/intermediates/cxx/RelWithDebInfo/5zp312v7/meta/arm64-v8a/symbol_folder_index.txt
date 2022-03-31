@@ -1,0 +1,1 @@
+C:\Users\Z004ESNT\AndroidStudioProjects\SelfCheckout\sdk\build\intermediates\cxx\RelWithDebInfo\5zp312v7\obj\arm64-v8a
